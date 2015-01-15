@@ -15,4 +15,4 @@
 
 # Repository configuration
 ---
-default_repository_root: https://download.run.pivotal.io
+default_repository_root: 114.212.87.52:8080
